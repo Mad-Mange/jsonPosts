@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "title": "Ett test från min json-file",
+  "body": "Ytterligare lite text från min fil"
+}, {
+  "id": 2
+  "title": "Två test från min json-file",
+  "body": "Ytterligare lite text från min fil"
+},
+  {
+  "id": 3
+  "title": "Tre test från min json-file",
+  "body":  "Ytterligare lite text från min fil"
+}
